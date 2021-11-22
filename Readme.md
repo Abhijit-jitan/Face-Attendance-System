@@ -2,9 +2,9 @@
 
 
 ## Working:
-``mainly it compares trained-face-encodings to new detected face-encodings & if it matched(similar distance between face-landmarks), then attendance & in-time recored`` 
+``Mainly it compares trained-face-encodings to new detected face-encodings & if it matched(similar distance between face-landmarks), then attendance & in-time recored`` 
 
-
+## Steps:
 * Download repository to local machine 
 * Place training-images to ``face attendance system\Known_faces`` directory
 * Run ``generate.py``, it will generate ``known_face_encodings.npy(face-encoding array)`` & ``known_face_label.npy(labels)``
