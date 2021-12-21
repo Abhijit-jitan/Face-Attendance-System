@@ -9,7 +9,7 @@
 ## Test:
  * Download / clone repository to local machine
  * Use Command Prompt to get inside the Repo
- * Run streamlit run webapp.py
+ * Run ``streamlit run webapp.py``
 
 ## Working Principle:
 ``Mainly it compares trained-face-encodings to new detected face-encodings & if it matched(similar distance between face-landmarks), then attendance & in-time recored`` 
