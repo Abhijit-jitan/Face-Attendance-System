@@ -1,5 +1,5 @@
 ## Goal:
-  **I ve tried ``Contactless`` & ``Automated`` approach  to replace ``biometric Attendance System``**
+  **Implementation of ``Contactless`` & ``Automated`` approach  to replace ``biometric Attendance System``**
 
 ## Use-cases:
  * Better & Automated approach for Attendence System(In any sector)
@@ -27,4 +27,5 @@
  * **Version_2:** Used "Streamlit" to develop "GUI" & used ".npy" file for train model(replacement of explicitly training) 
  * **Version_3:** Used "Streamlit" to develop "GUI" & used "generate.py" script to generate "(known_face & known_label files).npy"
  * **Version_4:** Used "threshold-time" to check is the entry-time is late|in-time & write attendance to ".CSV" file   
+ * **Version_5:** Complete Modular code & Error Handling Capacity
 
